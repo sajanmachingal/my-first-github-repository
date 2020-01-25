@@ -1,1 +1,2 @@
 Another file in feature-1 branch
+THis file was modified locally
